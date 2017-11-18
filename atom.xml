@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[IIO DRIVE]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2017-11-18T12:37:45+02:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://giach.github.io/atom.xml" rel="self"/>
+  <link href="http://giach.github.io/"/>
+  <updated>2017-11-18T13:38:25+02:00</updated>
+  <id>http://giach.github.io/</id>
   <author>
     <name><![CDATA[Georgiana Chelu]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Gia says: Hello IIO! - The adventure begins]]></title>
-    <link href="http://yoursite.com/blog/2017/11/18/gia-says-hello-iio-the-adventure-begins/"/>
+    <link href="http://giach.github.io/blog/2017/11/18/gia-says-hello-iio-the-adventure-begins/"/>
     <updated>2017-11-18T08:24:50+02:00</updated>
-    <id>http://yoursite.com/blog/2017/11/18/gia-says-hello-iio-the-adventure-begins</id>
+    <id>http://giach.github.io/blog/2017/11/18/gia-says-hello-iio-the-adventure-begins</id>
     <content type="html"><![CDATA[<p><font face = "Comic sans MS" size = "3"></p>
 
 <p>Hello, it&rsquo;s me <br>
@@ -80,27 +80,27 @@ But it don&rsquo;t matter it clearly doesn&rsquo;t tear you apart anymore
   
   <entry>
     <title type="html"><![CDATA[Octo says: Hello]]></title>
-    <link href="http://yoursite.com/blog/2017/11/18/octo-says-hello/"/>
+    <link href="http://giach.github.io/blog/2017/11/18/octo-says-hello/"/>
     <updated>2017-11-18T08:24:15+02:00</updated>
-    <id>http://yoursite.com/blog/2017/11/18/octo-says-hello</id>
+    <id>http://giach.github.io/blog/2017/11/18/octo-says-hello</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello]]></title>
-    <link href="http://yoursite.com/blog/2017/11/18/hello/"/>
+    <link href="http://giach.github.io/blog/2017/11/18/hello/"/>
     <updated>2017-11-18T08:21:49+02:00</updated>
-    <id>http://yoursite.com/blog/2017/11/18/hello</id>
+    <id>http://giach.github.io/blog/2017/11/18/hello</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[title]]></title>
-    <link href="http://yoursite.com/blog/2017/11/18/title/"/>
+    <link href="http://giach.github.io/blog/2017/11/18/title/"/>
     <updated>2017-11-18T08:21:39+02:00</updated>
-    <id>http://yoursite.com/blog/2017/11/18/title</id>
+    <id>http://giach.github.io/blog/2017/11/18/title</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
