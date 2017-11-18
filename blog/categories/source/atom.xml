@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[IIO DRIVERS]]></title>
-  <link href="/atom.xml" rel="self"/>
+  <title><![CDATA[Category: source | IIO DRIVERS]]></title>
+  <link href="/blog/categories/source/atom.xml" rel="self"/>
   <link href="/"/>
   <updated>2017-11-18T23:25:53+02:00</updated>
   <id>/</id>
