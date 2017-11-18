@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[IIO DRIVE]]></title>
-  <link href="http://giach.github.io/atom.xml" rel="self"/>
-  <link href="http://giach.github.io/"/>
-  <updated>2017-11-18T14:24:47+02:00</updated>
-  <id>http://giach.github.io/</id>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/"/>
+  <updated>2017-11-18T14:58:00+02:00</updated>
+  <id>/</id>
   <author>
     <name><![CDATA[Georgiana Chelu]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello!]]></title>
-    <link href="http://giach.github.io/blog/2017/11/18/hello/"/>
+    <link href="/blog/2017/11/18/hello/"/>
     <updated>2017-11-18T14:24:14+02:00</updated>
-    <id>http://giach.github.io/blog/2017/11/18/hello</id>
+    <id>/blog/2017/11/18/hello</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
