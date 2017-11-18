@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/blog/2017/11/18/did-you-spot-tux/</loc>
-<lastmod>2017-11-18T22:00:09+02:00</lastmod>
-</url>
-<url>
-<loc>/blog/2017/11/18/second-non-outreachy-post/</loc>
-<lastmod>2017-11-18T21:41:41+02:00</lastmod>
-</url>
-<url>
 <loc>/blog/2017/11/18/non-outreachy-post/</loc>
 <lastmod>2017-11-18T19:33:19+02:00</lastmod>
 </url>
