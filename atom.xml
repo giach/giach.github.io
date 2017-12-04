@@ -4,7 +4,7 @@
   <title><![CDATA[IIO DRIVERS]]></title>
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2017-11-21T20:30:24+02:00</updated>
+  <updated>2017-12-05T01:35:12+02:00</updated>
   <id>/</id>
   <author>
     <name><![CDATA[Georgiana Chelu]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="https://giach.github.io/">IIO Drivers</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello from the Tux side]]></title>
+    <link href="/blog/2017/12/05/hello-from-the-tux-side/"/>
+    <updated>2017-12-05T01:12:19+02:00</updated>
+    <id>/blog/2017/12/05/hello-from-the-tux-side</id>
+    <content type="html"><![CDATA[<p>Hello!</p>
+
+<p>I am Georgiana and I am currently pursuing a Master&rsquo;s Degree in Advanced Network Security at the University Politehnica of Bucharest. In addition to this, I am glad to say that I was accepted to the Outreachy Round 15. The project that I was selected for aims to build an Industrial I/O Driver.</p>
+
+<p>This journey started 3 years ago when I applied to Outreachy for the first time. Back then, my lack of experience did not stop me to give it a try. The result was not the one I was expected and my confidence faded. Thus, the following years, my main focus was on building a solid knowledge in the C programming language, Git and Linux Kernel. Now, I am happy that I will write my first driver for the IIO Linux Kernel module, under the guidance of Daniel Băluță and Alison Schofield. I own them lot of thanks for their time and their support.</p>
+
+<p>The community played an important role by helping me during the application period. The mentors had an incredible patience for our silly mistakes and their responses revealed professionalism, passion and attention to details. Regarding my contribution to Linux Kernel, my struggle in the past was the Git tool. But this time, I discovered the beauty of using this version control system. Now, I am ready to level up my knowledge and confidence.</p>
+
+<p><img class="right" src="//images/wizard-tux.jpg" title="image" alt="images"></p>
+
+<p>So, let the adventure of IIO Drivers begin! Tux will join me in this journey and help me during the future challenges. He will help me through debugging sessions (as rubber duck) or will make things happen (as an wizard would do).</p>
+
+<p><a href='http://supermaitre.eklablog.fr/'>Wizard Tux image source.</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Non-outreachy post]]></title>
