@@ -7,7 +7,7 @@ categories: outreachy
 published: true
 ---
 
-
+<br>
 <p>
 I'm really excited to talk about my first important conference attendance. This year, the Open Source Summit conference took place in Edinburgh on 22-24th of October. 
 
