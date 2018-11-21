@@ -141,6 +141,7 @@ Reboot the Raspberry</p>
 <p>Before connecting the sensor, be sure that you have the right tools. Install the i2c-tools and check the pins.
 <br>
 <code>sudo apt-get install i2c-tools</code>
+<br>
 <code>sudo i2cdetect -y 1</code></p>
 
 <p><p>
@@ -167,7 +168,7 @@ Make the following connections from ADS1015 to your Raspberry Pi:
 
 <p>Now that we have the wire connections, create a new IIO device with the command:</p>
 
-<p><code>echo 0x48 &gt; /sys/bus/i2c/devices/i2c-1/new_device</code></p>
+<p><code>echo ads1015 0x48 &gt; /sys/bus/i2c/devices/i2c-1/new_device</code></p>
 
 <p>After the sensor initialization, we can start measuring the voltage.</p>
 
@@ -227,6 +228,8 @@ The next challenge is to check if the ADS1118 implementation is working. This AD
         <a class="basic-alignment left" href="/blog/2018/01/07/start-the-adeventure-the-setup-part/" title="Previous Post: Start the adeventure: The Setup Part">&laquo; Start the adeventure: The Setup Part</a>
       
       
+        <a class="basic-alignment right" href="/blog/2018/11/16/open-source-summit/" title="Next Post: Open Source Summit Europe 2018">Open Source Summit Europe 2018 &raquo;</a>
+      
     </p>
   </footer>
 </article>
@@ -274,6 +277,10 @@ The next challenge is to check if the ADS1118 implementation is working. This AD
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2018/11/16/open-source-summit/">Open Source Summit Europe 2018</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2018/02/02/hello-ads1015/">Hello, ADS1015!</a>
       </li>
     
@@ -287,10 +294,6 @@ The next challenge is to check if the ADS1118 implementation is working. This AD
     
       <li class="post">
         <a href="/blog/2017/11/18/non-outreachy-post/">Non-outreachy post</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2017/11/18/hello-tux/">Hello, Tux!</a>
       </li>
     
   </ul>

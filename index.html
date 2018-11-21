@@ -9,7 +9,7 @@
   <meta name="author" content="Georgiana Chelu">
 
   
-  <meta name="description" content="Tux and his Gibson His main hobby is playing guitar, especially electric guitar which makes the sound of the guitar to be heard from the Earth to the &hellip;">
+  <meta name="description" content="I&rsquo;m really excited to talk about my first important conference attendance. This year, the Open Source Summit conference took place in &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -50,6 +50,76 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2018/11/16/open-source-summit/">Open Source Summit Europe 2018</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2018-11-16T19:33:19+02:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><br></p>
+
+<p><p>
+I&rsquo;m really excited to talk about my first important conference attendance. This year, the Open Source Summit conference took place in Edinburgh on 22-24th of October.</p>
+
+<p><img class="center" src="/images/oss.jpg" title="image" alt="images">
+<br>
+<p>
+The conference was a great place to meet amazing people and to share ideas.</p>
+
+<p><img class="center" src="/images/conference.jpg" title="image" alt="images">
+<br>
+<p>
+I had the opportunity to be part of the &ldquo;Panel Discussion: Outreachy Linux Kernel Internship Report&rdquo;, moderated by Julia Lawall, the coordinator of the program. My presentation was about my work at the ADS1118 sensor. At the end of the talk, there was an open discussion about how to encourage women to contribute to open source projects.</p>
+
+<p><img class="center" src="/images/talk.jpeg" title="image" alt="images">
+<br>
+<p>
+One of my favourite presentations was the one given by Greg Kroah-Hartman, a Linux kernel maintainer and an amazing speaker. He talked about Meltdown and Specter, two of the most critical security vulnerabilities and their impact to Linux kernel.</p>
+
+<p>Steven Rostedt, a remarkable Linux kernel contributor and developer at VMWare, gave an outstanding talk about Dynamic Kernel Tracing Events.</p>
+
+<p><img class="center" src="/images/greg-talk.jpg" title="image" alt="images"></p>
+
+<p><img class="center" src="/images/greg-talk-2.jpg" title="image" alt="images">
+<br>
+<p></p>
+
+<p>Edinburgh is an amazing and historical city. There are a lot of famous places like Edinburgh Castle, Old Town, Princes Street. We visited Edinburgh Castle in the evening. And the view on top of the castle took our breath away.</p>
+
+<p><img class="center" src="/images/street.jpg" title="image" alt="images"></p>
+
+<p><br>
+<p>
+I encourage you to apply to the Outreachy program. You can find more information about the current round at this <a href='https://kernelnewbies.org/OutreachyIntro'>link</a>. There are a lot of interesting projects!</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -144,6 +214,7 @@ Reboot the Raspberry</p>
 <p>Before connecting the sensor, be sure that you have the right tools. Install the i2c-tools and check the pins.
 <br>
 <code>sudo apt-get install i2c-tools</code>
+<br>
 <code>sudo i2cdetect -y 1</code></p>
 
 <p><p>
@@ -170,7 +241,7 @@ Make the following connections from ADS1015 to your Raspberry Pi:
 
 <p>Now that we have the wire connections, create a new IIO device with the command:</p>
 
-<p><code>echo 0x48 &gt; /sys/bus/i2c/devices/i2c-1/new_device</code></p>
+<p><code>echo ads1015 0x48 &gt; /sys/bus/i2c/devices/i2c-1/new_device</code></p>
 
 <p>After the sensor initialization, we can start measuring the voltage.</p>
 
@@ -404,7 +475,7 @@ Patience you must have, my young padawan.
   </header>
 
 
-  <div class="entry-content">
+  <div class="entry-content"><p>Hello from the other side!</p>
 </div>
   
   
@@ -495,6 +566,10 @@ Patience you must have, my young padawan.
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2018/11/16/open-source-summit/">Open Source Summit Europe 2018</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2018/02/02/hello-ads1015/">Hello, ADS1015!</a>
       </li>
     
@@ -508,10 +583,6 @@ Patience you must have, my young padawan.
     
       <li class="post">
         <a href="/blog/2017/11/18/non-outreachy-post/">Non-outreachy post</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2017/11/18/hello-tux/">Hello, Tux!</a>
       </li>
     
   </ul>
